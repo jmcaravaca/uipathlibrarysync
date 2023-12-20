@@ -1,0 +1,4 @@
+Authlib~=1.2
+requests~=2.31
+UIPathAPI @ git+https://github.com/TaruDesigns/UIPathAPI.git
+loguru==0.7.2
